@@ -1,0 +1,7 @@
+x = 3 + 4
+
+if x > 6:
+	print('X is greater than 7')
+
+else:
+	print('You messed up something')
