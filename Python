@@ -5,3 +5,4 @@ if x > 6:
 
 else:
 	print('You messed up something')
+	print('Csináld újra')
